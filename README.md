@@ -1,8 +1,15 @@
-# Initial page
+---
+description: >-
+  This documentation is intended to give new comers to the Cardano Ecosystem
+  detailed instructions on how to purchase Cardano tokens (ADA), transfer them
+  to private wallets and delegate them.
+---
+
+# Manual for new comers to Cardano
 
 ## Can I become who I want to be?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+
 
 ## Have you had a chance to answer the previous question?
 
