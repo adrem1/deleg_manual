@@ -1,5 +1,5 @@
 ---
-Description: >-
+description: >-
   This documentation is intended to give newcomers to the Cardano Ecosystem
   detailed instructions on how to purchase Cardano tokens (ADA), transfer them
   to private wallets and delegate them.
