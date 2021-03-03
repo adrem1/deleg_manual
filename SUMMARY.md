@@ -1,5 +1,12 @@
 # Table of contents
 
-* [Manual for newcomers to Cardano](README.md)
-* [Important definitions](untitled.md)
+* [Who is this guide for?](README.md)
+* [Important definitions](important-definitions.md)
+* [Security tips](security-tips.md)
+* [Choosing an exchange](choosing-an-exchange.md)
+* [Purchasing ADA](purchasing-ada.md)
+* [Installing a wallet app](installing-a-wallet-app/README.md)
+  * [Daedalus](installing-a-wallet-app/daedalus.md)
+  * [Yoroi](installing-a-wallet-app/yoroi.md)
+* [Creating a wallet to receive funds](creating-a-wallet-to-receive-funds.md)
 

@@ -5,7 +5,7 @@ description: >-
   to private wallets and delegate them.
 ---
 
-# Manual for newcomers to Cardano
+# Who is this guide for?
 
 ## This guide is for you if:
 
