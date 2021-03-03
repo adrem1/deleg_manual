@@ -7,13 +7,19 @@ description: >-
 
 # Manual for new comers to Cardano
 
-## Can I become who I want to be?
+## This guide is for you if:
+
+You are interested in cryptocurrencies and blockchains;
+
+You have heard of Cardano and want to invest in it;
+
+You have never tried to purchase/transfer/delegate ADA before.
 
 
 
-## Have you had a chance to answer the previous question?
+## Disclaimer
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+This guide is written to illustrate the process of purchasing/transferring/delegating Cardano \(ADA\) tokens. It is not meant to constitute investment advice. Please follow security best practices to ensure your cryptocurrencies are safe. Empowerment and financial independence come with responsibility!
 
 
 
