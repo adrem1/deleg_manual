@@ -12,3 +12,9 @@ Disclaimer: Coinspot does not endorse or in any other way sponsor this content.
 
 
 
+## Create an account
+
+Navigate to [https://www.coinspot.com.au/](https://www.coinspot.com.au/) and click register:
+
+![](../.gitbook/assets/coinspot_splash.png)
+
