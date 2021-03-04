@@ -26,5 +26,5 @@ Both Cardano Wallets we will be talking about later in this guide use a multi-wo
 **Never** store this mnemonic digitally, unless you have a security setup that allows you to do so safely \(eg Air-gapped machine, in which case you probably don't need this guide\). 
 {% endhint %}
 
-Store your mnemonic on **paper** \(a Moleskine or similar will do\): make 3 copies and keep them in at least 2 separate _physical_ locations. 
+Store your mnemonic on **paper** \(a notebook that you will not loose\): make 3 copies and keep them in at least 2 separate _physical_ locations. 
 

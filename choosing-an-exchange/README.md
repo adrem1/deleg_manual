@@ -9,14 +9,24 @@ description: >-
 
 ## Think about tax time
 
-Nobody likes to think about tax time. But we kind of have to. Some jurisdictions treat cryptocurrencies as commodities, some as securities, some are flat-out trying to ban them. Where you are in the world will determine when and how your crypto earnings will be treated. Do some research ahead of time, to avoid unpleasant surprises. 
+Nobody likes to think about tax time. But we kind of have to. Some jurisdictions treat cryptocurrencies as commodities, some as securities, some are flat-out trying to ban them. Where you are in the world will determine when and how your crypto earnings will be taxed. 
+
+{% hint style="danger" %}
+Do some research ahead of time, to avoid unpleasant surprises. 
+{% endhint %}
+
+{% hint style="info" %}
+Some exchanges provide end-of-financial year reports, accepted by your jurisdictional taxation office.
+{% endhint %}
+
+
 
 ## Reputation matters
 
 Make sure your exchange of choice has a good reputation. Things to look out for include:
 
 * Years of activity \(how long have they been around for?\);
-* Awards and certifications from competend organs;
+* Awards and certifications from competent organs;
 * Bad press or allegations of criminal behaviour;
 * Quality of customer-support;
 * Transparency of dealings with the community.
