@@ -20,5 +20,5 @@ Navigate to [https://www.coinspot.com.au/](https://www.coinspot.com.au/) and cli
 
 From the top menu, select the Account drop down and choose **Security**:
 
-![](https://github.com/adrem1/deleg_manual/tree/2a9b25b533f10c0263258c5fe539a86ac5d8277f/.gitbook/assets/coinspot_menu.png)
+![](../.gitbook/assets/coinspot_menu.png)
 
