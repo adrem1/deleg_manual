@@ -18,3 +18,10 @@ Navigate to [https://www.coinspot.com.au/](https://www.coinspot.com.au/) and cli
 
 ![](../.gitbook/assets/coinspot_splash.png)
 
+
+
+## Secure your account
+
+From the top menu, select the Account drop down and choose **Security**:
+
+![](../.gitbook/assets/coinspot_menu.png)
