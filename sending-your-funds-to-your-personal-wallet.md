@@ -4,5 +4,5 @@ description: >-
   personal one.
 ---
 
-# Sending your funds to your personal wallet
+# Sending ADA to your personal wallet
 
