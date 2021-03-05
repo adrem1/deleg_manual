@@ -26,9 +26,9 @@ From here, setup 2FA and an anti-phishing phrase:
 
 ![](../.gitbook/assets/coinspot_security_menu.png)
 
-Familiarise yourself with these settings and their meaning. Your exchange account is now more secure! Time to fund it!
+Familiarise yourself with these settings and their meaning. **Your exchange account is now more secure!** Time to fund it!
 
 {% hint style="info" %}
-Take your time to understand the interface and settings of your exchange.
+Take your time to understand the **interface and settings** of your exchange.
 {% endhint %}
 
