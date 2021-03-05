@@ -14,5 +14,5 @@ Navigate to the **Buy/Sell** page and you should see something similar to this:
 
 ![](.gitbook/assets/copinspot_buy_sell_page.png)
 
-From here you can examine cryptocurrency charts, buy and sell coins. **Let's buy some ADA!**
+From here you can examine cryptocurrency price charts, buy and sell coins. **Let's buy some ADA!**
 
