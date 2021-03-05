@@ -9,5 +9,7 @@
 * [Installing a wallet app](installing-a-wallet-app/README.md)
   * [Daedalus](installing-a-wallet-app/daedalus.md)
   * [Yoroi](installing-a-wallet-app/yoroi.md)
-* [Creating a wallet to receive funds](creating-a-wallet-to-receive-funds.md)
+* [Creating a wallet](creating-a-wallet-to-receive-funds.md)
+* [Sending your funds to your personal wallet](sending-your-funds-to-your-personal-wallet.md)
+* [Delegating your ADA](delegating-your-ada.md)
 

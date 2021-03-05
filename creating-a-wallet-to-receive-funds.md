@@ -1,2 +1,6 @@
-# Creating a wallet to receive funds
+---
+description: Here you will learn to create a wallet in Daedalus and Yoroi
+---
+
+# Creating a wallet
 
