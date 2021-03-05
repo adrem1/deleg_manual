@@ -22,3 +22,13 @@ From the top menu, select the Account drop down and choose **Security**:
 
 ![](../.gitbook/assets/coinspot_menu.png)
 
+From here, setup 2FA and an anti-phishing phrase:
+
+![](../.gitbook/assets/coinspot_security_menu.png)
+
+Familiarise yourself with these settings and their meaning. Your exchange account is now more secure! Time to fund it!
+
+{% hint style="info" %}
+Take your time to understand the interface and settings of your exchange.
+{% endhint %}
+
