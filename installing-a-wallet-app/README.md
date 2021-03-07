@@ -32,5 +32,7 @@ Yoroi is a **Cardano Wallet** developed by [Emurgo](https://emurgo.io/), the com
 
 Yoroi can be downloaded here: [https://yoroi-wallet.com/](https://yoroi-wallet.com/#/)
 
+![The splash page from Yoroi&apos;s Website.](../.gitbook/assets/yoroi_splash.png)
+
 
 
