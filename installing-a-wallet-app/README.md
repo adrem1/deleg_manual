@@ -6,3 +6,19 @@ description: >-
 
 # Installing a wallet app
 
+## Daedalus
+
+Daedalus is a **Cardano Wallet** made by [IOG ](https://iohk.io/)\(the developing company behind Cardano\). It is a desktop application, which works with all major Operating Systems \(Windows, MacOS and Linux\). 
+
+> Daedalus is a full node wallet. This means that unlike light wallets \(e.g.Yoroi, Adalite etc.\) Daedalus downloads a full copy of the Cardano blockchain and independently validates every transaction in its history. That way you get maximum security and completely trustless operation, without centrally hosted 3rd party servers.
+
+Daedalus can be downloaded here: [https://daedaluswallet.io/](https://daedaluswallet.io/)
+
+{% hint style="danger" %}
+Do not trust any other sources than the one linked above for Daedalus downloads. **Always check the URL** you are downloading from!
+{% endhint %}
+
+## Yoroi
+
+kjghkjdsfhgkjdhfkj  lkhoitepotuopier pooj poejgf poieruj gpoiwejf powrejfpoj fp;ol werj  poerj t podsj  poerj  pokewrj 
+
