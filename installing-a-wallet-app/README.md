@@ -15,7 +15,11 @@ Daedalus is a **Cardano Wallet** made by [IOG ](https://iohk.io/)\(the developin
 Daedalus can be downloaded here: [https://daedaluswallet.io/](https://daedaluswallet.io/)
 
 {% hint style="danger" %}
-Do not trust any other sources than the one linked above for Daedalus downloads. **Always check the URL** you are downloading from!
+Do **not** trust any other sources than the one linked above for Daedalus downloads. **Always check the URL** you are downloading from!
+{% endhint %}
+
+{% hint style="danger" %}
+Always check that you are downloading verified software. **Follow the instructions** on the Download page, and verify signature and checksum!
 {% endhint %}
 
 ## Yoroi
