@@ -38,3 +38,7 @@ Yoroi is a **Cardano Wallet** developed by [Emurgo](https://emurgo.io/), the com
 As above, **always check** the URL your are getting software from and **follow** the developer's **instructions** carefully!
 {% endhint %}
 
+{% hint style="info" %}
+Once you have chosen your ADA wallet, proceed to the relevant section of this guide for more details.
+{% endhint %}
+
