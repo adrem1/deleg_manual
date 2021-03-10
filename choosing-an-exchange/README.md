@@ -5,7 +5,7 @@ description: >-
   can make a lot of difference.
 ---
 
-# Choosing an exchange
+# 1. Choosing an exchange
 
 ## Think about tax time
 

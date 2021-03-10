@@ -4,7 +4,7 @@ description: >-
   key differences between Daedalus and Yoroi.
 ---
 
-# Installing a wallet app
+# 3. Installing a wallet app
 
 ## Daedalus
 
