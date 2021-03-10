@@ -13,4 +13,5 @@
 * [5. Delegating your ADA](delegating-your-ada/README.md)
   * [From Daedalus](delegating-your-ada/from-daedalus.md)
   * [From Yoroi](delegating-your-ada/from-yoroi.md)
+* [6. Some links of interest](6.-some-links-of-interest.md)
 
