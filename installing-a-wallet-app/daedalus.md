@@ -6,5 +6,9 @@ description: >-
 
 # Daedalus
 
-## 
+## Creating a wallet
+
+## Recovering a wallet
+
+
 
