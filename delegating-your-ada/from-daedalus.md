@@ -1,2 +1,2 @@
-# From Daedalus
+# Delegating from Daedalus
 

@@ -1,2 +1,2 @@
-# From Yoroi
+# Delegating from Yoroi
 
