@@ -6,6 +6,10 @@ description: >-
 
 # Daedalus
 
+{% hint style="danger" %}
+At the time of this writing \(March 10th 2021\) a mobile version of Daedalus has **NOT** been released. Numerous **scams** have been reported, claiming Daedalus can be used on mobile. This is **NOT** the case and you should **NOT** trust these claims.  
+{% endhint %}
+
 ## Let Daedalus sync to the blockchain
 
 Once you have downloaded and verified Daedalus \(see previous section\) configure options as needed:
