@@ -28,6 +28,10 @@ To check synchronisation progress you can hover over **the circular arrows icon*
 
 ![](../.gitbook/assets/daedalus_let_sync.png)
 
+Once Daedalus has **synced to the blockchain** a check mark will appear in the top right corner:
+
+
+
 ## Creating a wallet
 
 ## Recovering a wallet
