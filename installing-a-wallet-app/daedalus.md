@@ -58,5 +58,39 @@ Take your time to navigate Daedalus' interface and familiarise yourself with it.
 
 ## Recovering a wallet
 
+Should you loose access to your Daedalus software for whichever reason \(machine broken/lost/stolen\), please use your **mnemonic phrase** to restore it. Choose **restore** in the following menu:
 
+![](../.gitbook/assets/daedalus_restore.png)
+
+You will be taken to a menu, asking to choose what type of wallet to restore, flag **Daedalus wallet**:
+
+![](../.gitbook/assets/daedalus_restore_type.png)
+
+When prompted for the **kind** of Daedalus wallet, choose **24 words \(Shelley wallet\)**:
+
+![](../.gitbook/assets/daedalus_restore_type_2.png)
+
+{% hint style="info" %}
+This method of recovery works for older Daedalus wallets as well, and for Yoroi wallets.  
+{% endhint %}
+
+Now it's time to enter your **mnemonic phrase**:
+
+![](../.gitbook/assets/daedalus_restore_phrase.png)
+
+As you can see, once you enter your **mnemonic phrase** and verify it, you are prompted for a **new** wallet **name** and **password**. This was already noted above, and is important because:
+
+{% hint style="danger" %}
+Should someone get a hold of your **mnemonic phrase**, they can restore your wallet and **gain full control** of it, **even if they don't know your spending password** \(they will be asked, like you just then, to make a new password\).
+{% endhint %}
+
+{% hint style="danger" %}
+Should you ever **loose** a copy of your **mnemonic phrase**, you must consider **your wallet compromised**, and transfer its contents to a new one.
+{% endhint %}
+
+![](../.gitbook/assets/daedalus_restore_config.png)
+
+{% hint style="info" %}
+You now have all the tools you need to **manage your Daedalus wallets**. Please use your judgement and take time to practice **creating**, **deleting** and **restoring** wallets, in order to gain confidence.
+{% endhint %}
 
