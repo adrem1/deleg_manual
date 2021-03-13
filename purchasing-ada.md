@@ -6,6 +6,10 @@ description: >-
 
 # 2. Purchasing ADA
 
+{% hint style="success" %}
+As of March 2021, **Coinspot** offers a **Market for ADA**. Compared to spot buy/sell trades, in the market you can set your own price and incur **reduced fees** \(0.1% vs 1%\)
+{% endhint %}
+
 {% hint style="warning" %}
 Please note that all exchanges will have a different look-and-feel as well as differ from one another based on factors highlighted in the "[Choosing an exchange](choosing-an-exchange/)" section of this guide. 
 {% endhint %}
