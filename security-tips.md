@@ -4,12 +4,12 @@ description: General advice to keep your cryptocurrencies safe.
 
 # Security tips
 
-## Exchange \(hot\) vs personal \(cold\) wallets
+## Exchange vs personal wallets
 
-Exchanges go to great lengths to guarantee your funds are safe. Nonetheless, like any other **big** store of value, exchange wallets can become targets for nefarious activity. In the context of a **long-term** investment, your hard-earned cryptocurrencies will be safer in a personal \(cold\) wallet which you control rather than an exchange \(hot\) wallet.  
+Exchanges go to great lengths to guarantee your funds are safe. Nonetheless, like any other **big** store of value, exchange wallets can become targets for nefarious activity. In the context of a **long-term** investment, your hard-earned cryptocurrencies will be safer in a personal wallet which you control rather than an exchange wallet.  
 
 {% hint style="info" %}
- Funds stored on personal \(cold\) wallets need to be moved to an exchange \(hot\) wallet to be traded into fiat or other cryptos.
+ Funds stored on personal wallets need to be moved to an exchange wallet to be traded into fiat or other cryptos.
 {% endhint %}
 
 ## A word from the experts

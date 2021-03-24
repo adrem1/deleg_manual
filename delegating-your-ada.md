@@ -7,7 +7,9 @@ description: >-
 # 5. Delegating your ADA
 
 {% hint style="danger" %}
-When you delegate your funds, these remain in your **full control**. Your first delegation will incur a \(refundable\) **delegation fee**. Should you delegate your funds to a different pool, your operation will only incur a **small transaction fee** \(non refundable\). 
+When you delegate your funds, these remain in your **full control**. Cardano also has **no lock-in** period.
+
+Your first delegation will incur a \(refundable\) **delegation fee**. Should you delegate your funds to a different pool, your operation will only incur a **small transaction fee** \(non refundable\). 
 {% endhint %}
 
 ## Delegating from Daedalus
