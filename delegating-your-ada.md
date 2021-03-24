@@ -22,7 +22,35 @@ Search for the pool you wish to delegate to and select "**Delegate to this pool*
 
 ![](.gitbook/assets/daedalus_deleg_rabit.png)
 
+In the following dialogue, **select the wallet** to delegate from:
+
+![](.gitbook/assets/daedalus_choose_deleg_wallet.png)
+
+You will now be prompted to enter your **spending password** to confirm delegation preferences:
+
+![](.gitbook/assets/daedalus_deleg_confirm.png)
+
+{% hint style="warning" %}
+It is recommended to **change your spending password every time you use it**.
+{% endhint %}
+
+Once **delegation is successful** you should see this dialogue box:
+
+![](.gitbook/assets/daedalus_deleg_success.png)
+
+
+
 ## Delegating from Yoroi
 
 WIP
+
+## Congratulations!
+
+Your ADA is now delegated to a stake pool 👏 : your are **actively securing Cardano**, while **earning ADA rewards**!
+
+{% hint style="info" %}
+Please note that, like your delegation preferences, **staking rewards** are paid out to you after 2 Epochs have passed since rewards were calculated.
+
+ 
+{% endhint %}
 
