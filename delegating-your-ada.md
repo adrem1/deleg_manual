@@ -51,6 +51,6 @@ Your ADA is now delegated to a stake pool 👏 : your are **actively securing Ca
 {% hint style="info" %}
 Please note that, like your delegation preferences, **staking rewards** are paid out to you after 2 Epochs have passed since rewards were calculated.
 
- 
+Monitor the **performance of your stake pool of choice**: if a pool does not mint any new blocks in an Epoch, neither you nor the stake pool operator will earn rewards. 
 {% endhint %}
 
