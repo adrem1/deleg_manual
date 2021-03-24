@@ -46,3 +46,7 @@ Coinspot will ask for your 2FA and also send you a confirmation email prior to w
 
 Please check back in your Daedalus wallet: **your funds have been transferred** and can now be delegated to a stake pool 👏 
 
+## Receiving funds in Yoroi
+
+WIP
+

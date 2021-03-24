@@ -10,8 +10,6 @@
   * [Daedalus](installing-a-wallet-app/daedalus.md)
   * [Yoroi](installing-a-wallet-app/yoroi.md)
 * [4. Sending ADA to your personal wallet](sending-your-funds-to-your-personal-wallet.md)
-* [5. Delegating your ADA](delegating-your-ada/README.md)
-  * [Delegating from Daedalus](delegating-your-ada/from-daedalus.md)
-  * [Delegating from Yoroi](delegating-your-ada/from-yoroi.md)
+* [5. Delegating your ADA](delegating-your-ada.md)
 * [6. Some links of interest](6.-some-links-of-interest.md)
 
