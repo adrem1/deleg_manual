@@ -25,12 +25,11 @@ Some exchanges provide end-of-financial year reports, accepted by your jurisdict
 
 Make sure your exchange of choice has a good reputation. Things to look out for include:
 
-* **Years of activity** \(how long have they been around for?\);
-* Whether the exchange will allow **cryptocurrency withdrawal** into personal wallets \(you will not be able to stake otherwise\);
-* **Awards and certifications** from competent organs;
-* **Bad press** or allegations of **criminal behaviour**;
-* Quality of **customer-support**;
-* **Transparency** of dealings with the community.
+* Years of activity \(how long have they been around for?\);
+* Awards and certifications from competent organs;
+* Bad press or allegations of criminal behaviour;
+* Quality of customer-support;
+* Transparency of dealings with the community.
 
 ## An example: [Coinspot](coinspot.md)
 
