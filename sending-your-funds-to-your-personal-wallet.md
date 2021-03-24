@@ -28,3 +28,21 @@ In the popup choose "Copy address":
 
 ![](.gitbook/assets/daedalus_share_address.png)
 
+Now go back to your exchange wallet, in Coinspot once you open your ADA wallet, you will find the "Send" button:
+
+![](.gitbook/assets/coinspot_send.png)
+
+{% hint style="info" %}
+In the dialogue that follows, paste the address you copied from Daedalus.
+{% endhint %}
+
+{% hint style="warning" %}
+Please ensure that the amount you wish to send is present in your exchange wallet \(including transaction fees\).
+{% endhint %}
+
+{% hint style="danger" %}
+Coinspot will ask for your 2FA and also send you a confirmation email prior to withdrawal of funds. 
+{% endhint %}
+
+Please check back in your Daedalus wallet: **your funds have been transferred** and can now be delegated to a stake pool 👏 
+
