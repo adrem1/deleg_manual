@@ -66,7 +66,31 @@ Then pick "**Cardano**":
 
 ![](../.gitbook/assets/yoroi_currency_choice.png)
 
+If restoring a Yoroi wallet, please choose "**Enter a 15-word recovery phrase**":
 
+![](../.gitbook/assets/yoroi_restore_02.png)
+
+And then, choose "**Shelley-era wallet**":
+
+![](../.gitbook/assets/yoroi_restore_03.png)
+
+{% hint style="info" %}
+**Please note**: this method of recovery works for older Yoroi wallets as well, and for Daedalus wallets \(in the latter case you will have to choose 24-word recovery phrases\).
+{% endhint %}
+
+In the following dialogue, you must enter the **recovery phrase**: 
+
+![](../.gitbook/assets/yoroi_restore_04.png)
+
+While entering your **recovery phrase**, you are prompted for a **new** wallet **name** and **password**. This was already noted above, and is important because:
+
+{% hint style="danger" %}
+Should someone get a hold of your **mnemonic phrase**, they can restore your wallet and **gain full control** of it, **even if they don't know your spending password** \(they will be asked, like you just then, to make a new password\).
+{% endhint %}
+
+{% hint style="danger" %}
+Should you ever **loose** a copy of your **mnemonic phrase**, you must consider **your wallet compromised**, and transfer its contents to a new one.
+{% endhint %}
 
 {% hint style="info" %}
 You now have all the tools you need to **manage your Yoroi wallets**. Please use your judgement and take time to practice **creating**, **deleting** and **restoring** wallets, in order to gain confidence.
