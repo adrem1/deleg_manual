@@ -56,3 +56,19 @@ Your new **Yoroi wallet** is ready to be funded 😍 :
 
 ![](../.gitbook/assets/yoroi_wallet_ready.png)
 
+## Recovering a Yoroi wallet
+
+Should you loose access to your Yoroi software for whichever reason \(machine broken/lost/stolen\), please use your **mnemonic phrase** to restore it. Choose "**Restore wallet**" ****in the following menu:
+
+![](../.gitbook/assets/yoroi_restore_01.png)
+
+Then pick "**Cardano**":
+
+![](../.gitbook/assets/yoroi_currency_choice.png)
+
+
+
+{% hint style="info" %}
+You now have all the tools you need to **manage your Yoroi wallets**. Please use your judgement and take time to practice **creating**, **deleting** and **restoring** wallets, in order to gain confidence.
+{% endhint %}
+

@@ -56,7 +56,7 @@ Once you have noted and secured your **recovery phrase** you will be asked to en
 Take your time to navigate Daedalus' interface and familiarise yourself with it. Below you will learn what to do in case you should loose access to your wallet. 
 {% endhint %}
 
-## Recovering a wallet
+## Recovering a Daedalus wallet
 
 Should you loose access to your Daedalus software for whichever reason \(machine broken/lost/stolen\), please use your **mnemonic phrase** to restore it. Choose **restore** in the following menu:
 
