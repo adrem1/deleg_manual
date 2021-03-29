@@ -18,6 +18,8 @@ Once you have installed Yoroi \(this example is based on the browser extension\)
 
 ![Configure payment URLs to your preference \(if you skip this step you can enable this option later\)](../.gitbook/assets/yoroi_payment_urls.png)
 
+## Create your wallet in Yoroi
+
 You are now ready to **create your ADA wallet** in Yoroi, please select "**Create wallet**":
 
 ![](../.gitbook/assets/yoroi_main.png)
@@ -38,5 +40,19 @@ Your wallet name and password are only stored locally. If you were to loose acce
 
 ![](../.gitbook/assets/yoroi_wallet_config.png)
 
+You will be asked to write down a **15-word recovery phrase**:
 
+{% hint style="danger" %}
+As discussed previously, please take all necessary precautions to **keep your recovery phrase safe**!
+{% endhint %}
+
+![](../.gitbook/assets/yoroi_recovery_phrase_01.png)
+
+Write the words on **paper**, and make **multiple copies**! When prompted, **check** that you have written the correct phrase, **read** the instructions, and **confirm**:
+
+![](../.gitbook/assets/yoroi_recovery_phrase_02.png)
+
+Your new **Yoroi wallet** is ready to be funded 😍 :
+
+![](../.gitbook/assets/yoroi_wallet_ready.png)
 
