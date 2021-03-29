@@ -56,9 +56,13 @@ Your new **Yoroi wallet** is ready to be funded 😍 :
 
 ![](../.gitbook/assets/yoroi_wallet_ready.png)
 
+{% hint style="info" %}
+Take your time to navigate Yoroi's interface and familiarise yourself with it. Below you will learn what to do in case you should loose access to your wallet. 
+{% endhint %}
+
 ## Recovering a Yoroi wallet
 
-Should you loose access to your Yoroi software for whichever reason \(machine broken/lost/stolen\), please use your **mnemonic phrase** to restore it. Choose "**Restore wallet**" ****in the following menu:
+Should you loose access to your Yoroi software for whichever reason \(machine broken/lost/stolen\), please use your **recovery phrase** to restore it. Choose "**Restore wallet**" ****in the following menu:
 
 ![](../.gitbook/assets/yoroi_restore_01.png)
 
@@ -85,11 +89,11 @@ In the following dialogue, you must enter the **recovery phrase**:
 While entering your **recovery phrase**, you are prompted for a **new** wallet **name** and **password**. This was already noted above, and is important because:
 
 {% hint style="danger" %}
-Should someone get a hold of your **mnemonic phrase**, they can restore your wallet and **gain full control** of it, **even if they don't know your spending password** \(they will be asked, like you just then, to make a new password\).
+Should someone get a hold of your **recovery phrase**, they can restore your wallet and **gain full control** of it, **even if they don't know your spending password** \(they will be asked, like you just then, to make a new password\).
 {% endhint %}
 
 {% hint style="danger" %}
-Should you ever **loose** a copy of your **mnemonic phrase**, you must consider **your wallet compromised**, and transfer its contents to a new one.
+Should you ever **loose** a copy of your **recovery phrase**, you must consider **your wallet compromised**, and transfer its contents to a new one.
 {% endhint %}
 
 {% hint style="info" %}
