@@ -50,5 +50,19 @@ Please check back in your Daedalus wallet: **your funds have been transferred** 
 
 ## Receiving funds in Yoroi
 
-WIP
+In the "**Receive**" tab, **copy the address to your clipboard**:
+
+{% hint style="info" %}
+You will **not** need a **password to receive** funds, anyone can send you funds without your authorisation😎. The addresses below are deleted intentionally, to prevent this, as the wallet in these pages is a test wallet only. 
+{% endhint %}
+
+![](.gitbook/assets/yoroi_receive.png)
+
+{% hint style="warning" %}
+Always choose a different address when receiving funds: this will protect your privacy. Funds will all go to the same wallet.
+{% endhint %}
+
+Now go **back to your exchange wallet** and paste the Yoroi wallet address in the relevant section. If you are using Coinspot, please follow the steps outlined above.
+
+Please check back in your Yoroi wallet: **your funds have been transferred** and can now be delegated to a stake pool 👏 
 
