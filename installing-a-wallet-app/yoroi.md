@@ -8,15 +8,21 @@ description: >-
 
 ## Configure Yoroi
 
-Once you have installed Yoroi \(this example is based on the browser extension\), please configure it: 
+Once you have installed Yoroi \(this example is based on the browser extension\), please configure it. First, **select your language** and click **continue**: 
 
-![Select your language and click continue](../.gitbook/assets/yoroi_splash%20%281%29.png)
+![](../.gitbook/assets/yoroi_splash%20%281%29.png)
 
-![Read and accept the terms of use, then click continue](../.gitbook/assets/yoroi_terms.png)
+Read and accept the **terms of use**, then click **continue**:
 
-![Choose interface complexity, we have chosen &quot;Simple&quot; for this example](../.gitbook/assets/yoroi_interface_choice.png)
+![](../.gitbook/assets/yoroi_terms.png)
 
-![Configure payment URLs to your preference \(if you skip this step you can enable this option later\)](../.gitbook/assets/yoroi_payment_urls.png)
+**Choose interface complexity**, we have chosen "Simple" for this example:
+
+![](../.gitbook/assets/yoroi_interface_choice.png)
+
+**Configure payment URLs** to your preference \(if you skip this step you can enable this option later\):
+
+![](../.gitbook/assets/yoroi_payment_urls.png)
 
 ## Create your wallet in Yoroi
 
@@ -35,7 +41,7 @@ Then, "**Create wallet**":
 Configure your wallet with a **name and password**:
 
 {% hint style="warning" %}
-Your wallet name and password are only stored locally. If you were to loose access to your wallet, the **recovery phrase** \(see below\) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password.  
+Your wallet name and password are only stored locally. If you loose access to your wallet, the **recovery phrase** \(see below\) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password.  
 {% endhint %}
 
 ![](../.gitbook/assets/yoroi_wallet_config.png)
