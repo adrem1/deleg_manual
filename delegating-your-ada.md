@@ -42,7 +42,21 @@ Once **delegation is successful** you should see this dialogue box:
 
 ## Delegating from Yoroi
 
-WIP
+From the "**Delegation List**" tab, 1\) **search** for your selected **stake pool** and 2\) click "**DELEGATE**": 
+
+![](.gitbook/assets/yoroi_delegate_01.png)
+
+Next**, confirm the transaction**. You will be asked to **enter your spending password**:
+
+![](.gitbook/assets/yoroi_delegate_02.png)
+
+{% hint style="warning" %}
+We recommend changing your spending password each time you use it.
+{% endhint %}
+
+Once **delegation is successful** you should see this dialogue box:
+
+![](.gitbook/assets/yoroi_delegate_03.png)
 
 ## Congratulations!
 
