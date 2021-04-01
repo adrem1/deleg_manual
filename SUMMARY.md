@@ -5,6 +5,7 @@
 * [Security tips](security-tips.md)
 * [1. Choosing an exchange](choosing-an-exchange/README.md)
   * [Coinspot](choosing-an-exchange/coinspot.md)
+  * [Kraken](choosing-an-exchange/kraken.md)
 * [2. Purchasing ADA](purchasing-ada.md)
 * [3. Installing a wallet app](installing-a-wallet-app/README.md)
   * [Daedalus](installing-a-wallet-app/daedalus.md)
