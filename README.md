@@ -15,5 +15,7 @@ description: >-
 
 ## Disclaimer
 
-{% hint style="info" %} This guide is written to illustrate the process of purchasing/transferring/delegating Cardano \(ADA\) tokens. _It is not meant to constitute investment advice_. Please follow security best practices to ensure your cryptocurrencies are safe. **Empowerment and financial independence come with responsibility!** {% endhint %}
+{% hint style="info" %}
+This guide is written to illustrate the process of purchasing/transferring/delegating Cardano \(ADA\) tokens. _It is not meant to constitute investment advice_. Please follow security best practices to ensure your cryptocurrencies are safe. **Empowerment and financial independence come with responsibility!**
+{% endhint %}
 
