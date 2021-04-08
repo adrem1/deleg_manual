@@ -11,5 +11,9 @@ description: >-
 **Disclaimer**: Kraken does not endorse or in any other way sponsor this content.
 {% endhint %}
 
+Verifying on Kraken: [https://support.kraken.com/hc/en-us/articles/360021973671](https://support.kraken.com/hc/en-us/articles/360021973671)
 
+Funding your Kraken account: [https://support.kraken.com/hc/en-us/articles/360021985471-How-do-I-fund-my-Kraken-account-](https://support.kraken.com/hc/en-us/articles/360021985471-How-do-I-fund-my-Kraken-account-)
+
+WIP
 
