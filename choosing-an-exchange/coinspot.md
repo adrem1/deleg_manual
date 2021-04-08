@@ -1,14 +1,13 @@
 ---
 description: >-
-  Coinspot is an Australian operated and regulated crypto exchange. This example
-  is provided due to familiarity with Coinspot's interface. More examples will
-  follow, showing other exchanges.
+  Coinspot is an Australian operated and regulated crypto exchange. Operating
+  since 2013, Coinspot has an impressive list of offerings in the crypto space.
 ---
 
 # Coinspot
 
 {% hint style="warning" %}
-Disclaimer: Coinspot does not endorse or in any other way sponsor this content.
+**Disclaimer**: Coinspot does not endorse or in any other way sponsor this content.
 {% endhint %}
 
 ## Create an account
