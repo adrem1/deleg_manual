@@ -32,11 +32,11 @@ Make sure your exchange of choice has a good reputation. Things to look out for 
 * Quality of **customer-support**;
 * **Transparency** of dealings with the community.
 
-## An example: [Coinspot](coinspot.md)
+## Some examples:
 
-In the next section we'll look at a practical example to show how to setup an account on an exchange, secure it, fund it and purchase some ADA!
+In the next sections we'll look at practical examples to show how to setup an account on an exchange, secure it, fund it and purchase some ADA!
 
 {% hint style="warning" %}
-Disclaimer: this guide is not supported financially or in any other way endorsed by Coinspot. 
+Disclaimer: this guide is not supported financially or in any other way endorsed by any of the exchanges mentioned herein. 
 {% endhint %}
 
