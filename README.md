@@ -6,7 +6,9 @@ description: >-
 coverY: 0
 ---
 
-# 📖 Cardano Delegation Manual
+# 📖 Welcome to Cardano
+
+![](.gitbook/assets/cardano\_logo\_purple.png)
 
 ## This guide is for you if:
 

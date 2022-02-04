@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📖 Cardano Delegation Manual](README.md)
+* [📖 Welcome to Cardano](README.md)
 * [‼ Important definitions](important-definitions.md)
 * [🔐 Security tips](security-tips.md)
 * [💹 1. Choosing an exchange](choosing-an-exchange/README.md)
