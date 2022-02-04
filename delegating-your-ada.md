@@ -2,9 +2,10 @@
 description: >-
   Here you'll learn how to delegate your funds to a stake pool, from both
   Daedalus and Yoroi
+coverY: 0
 ---
 
-# 5. Delegating your ADA
+# 🤝 5. Delegating your ADA
 
 {% hint style="danger" %}
 When you delegate your funds, these remain in your **full control**. Cardano also has **no lock-in** period.

@@ -2,27 +2,28 @@
 description: >-
   The examples provided here follow from previous sections and will be updated
   as we add more exchanges.
+coverY: 0
 ---
 
-# 2. Purchasing ADA
+# 💰 2. Purchasing ADA
 
 {% hint style="warning" %}
-**Disclaimer**: this guide is not supported financially or in any other way endorsed by any of the exchanges mentioned herein. 
+**Disclaimer**: this guide is not supported financially or in any other way endorsed by any of the exchanges mentioned herein.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-Please note that all exchanges will have a different look-and-feel as well as differ from one another based on factors highlighted in the "[Choosing an exchange](choosing-an-exchange/)" section of this guide. 
+Please note that all exchanges will have a different look-and-feel as well as differ from one another based on factors highlighted in the "[Choosing an exchange](choosing-an-exchange/)" section of this guide.&#x20;
 {% endhint %}
 
 ## Coinspot
 
 {% hint style="success" %}
-As of March 2021, **Coinspot** offers a **Market for ADA**. Compared to spot buy/sell trades, in the market you can set your own price and incur **reduced fees** \(0.1% vs 1%\)
+As of March 2021, **Coinspot** offers a **Market for ADA**. Compared to spot buy/sell trades, in the market you can set your own price and incur **reduced fees** (0.1% vs 1%)
 {% endhint %}
 
 Navigate to the **Buy/Sell** page and you should see something similar to this:
 
-![](.gitbook/assets/copinspot_buy_sell_page.png)
+![](.gitbook/assets/copinspot\_buy\_sell\_page.png)
 
 From here you can examine cryptocurrency price charts, buy and sell coins. **Let's buy some ADA!**
 
@@ -40,9 +41,8 @@ More instructions about buying crypto on Kraken are available here: [https://sup
 
 Navigate to the **Buy Crypto** page, select **Cardano** and the amount you want to buy:
 
-![](.gitbook/assets/kraken_buy_01.png)
+![](.gitbook/assets/kraken\_buy\_01.png)
 
 In the following popup, click on "Buy now". **Your Kraken account now holds some ADA!**
 
-![](.gitbook/assets/kraken_buy_02.png)
-
+![](.gitbook/assets/kraken\_buy\_02.png)

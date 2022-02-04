@@ -2,9 +2,10 @@
 description: >-
   Here you will learn how to install and operate a Cardano wallet app, and the
   key differences between Daedalus and Yoroi.
+coverY: 0
 ---
 
-# 3. Installing a wallet app
+# 👉 3. Installing a wallet app
 
 ## Daedalus
 
