@@ -61,7 +61,7 @@ Once **delegation is successful** you should see this dialogue box:
 
 ## Congratulations!
 
-Your ADA is now delegated to a stake pool :clap: : your are **actively securing Cardano**, while **earning ADA rewards**!
+Your ADA is now delegated to a stake pool :clap: : you are **actively securing Cardano**, while **earning ADA rewards**!
 
 {% hint style="info" %}
 Please note that, like your delegation preferences, **staking rewards** are paid out to you after 2 Epochs have passed since rewards were calculated.
