@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📖 Cardano Delegation Manual](README.md)
-* [Important definitions](important-definitions.md)
+* [‼ Important definitions](important-definitions.md)
 * [Security tips](security-tips.md)
 * [1. Choosing an exchange](choosing-an-exchange/README.md)
   * [Coinspot](choosing-an-exchange/coinspot.md)
