@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Who is this guide for?](README.md)
+* [📖 Cardano Delegation Manual](README.md)
 * [Important definitions](important-definitions.md)
 * [Security tips](security-tips.md)
 * [1. Choosing an exchange](choosing-an-exchange/README.md)
@@ -13,4 +13,3 @@
 * [4. Sending ADA to your personal wallet](sending-your-funds-to-your-personal-wallet.md)
 * [5. Delegating your ADA](delegating-your-ada.md)
 * [6. Some links of interest](6.-some-links-of-interest.md)
-
