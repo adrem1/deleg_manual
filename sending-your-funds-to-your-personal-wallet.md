@@ -35,13 +35,13 @@ Now go **back to your exchange wallet.**
 
 In Coinspot, once you open your ADA wallet, you will find the "**Send**" button:
 
-![](.gitbook/assets/coinspot\_send.png)
+![](.gitbook/assets/coinspot\_send\_button\_new.png)
 
 {% hint style="info" %}
 In the dialogue that follows, **paste the address you copied** in the **"ADA Payment Address"** box.
 {% endhint %}
 
-![](.gitbook/assets/coinspot\_wallet\_send\_edit.png)
+![](.gitbook/assets/coinspot\_send\_page\_updated.png)
 
 {% hint style="warning" %}
 Please ensure that the **amount you wish to send is present** in your exchange wallet (including transaction fees).
