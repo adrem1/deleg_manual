@@ -21,7 +21,7 @@ Navigate to (1) the Delegation Centre and choose (2) Stake Pools:
 
 Search for the pool you wish to delegate to and select "**Delegate to this pool**":
 
-![](.gitbook/assets/daedalus\_deleg\_rabit.png)
+![](.gitbook/assets/daedalus\_deleg\_rabit\_anonymised.png)
 
 In the following dialogue, **select the wallet** to delegate from:
 
@@ -29,7 +29,7 @@ In the following dialogue, **select the wallet** to delegate from:
 
 You will now be prompted to enter your **spending password** to confirm delegation preferences:
 
-![](.gitbook/assets/daedalus\_deleg\_confirm.PNG)
+![](.gitbook/assets/daedalus\_deleg\_confirm\_anonymised.png)
 
 {% hint style="warning" %}
 It is recommended to **change your spending password every time you use it**.
@@ -37,7 +37,7 @@ It is recommended to **change your spending password every time you use it**.
 
 Once **delegation is successful** you should see this dialogue box:
 
-![](.gitbook/assets/daedalus\_deleg\_success.PNG)
+![](.gitbook/assets/daedalus\_deleg\_success\_anonymised.PNG)
 
 
 
@@ -45,7 +45,7 @@ Once **delegation is successful** you should see this dialogue box:
 
 From the "**Delegation List**" tab, 1) **search** for your selected **stake pool** and 2) click "**DELEGATE**":&#x20;
 
-![](.gitbook/assets/yoroi\_delegate\_01.png)
+![](.gitbook/assets/yoroi\_delegate\_01\_anonymised.png)
 
 Next**, confirm the transaction**. You will be asked to **enter your spending password**:
 
