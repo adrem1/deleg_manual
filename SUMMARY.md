@@ -14,4 +14,4 @@
 * [🤝 5. Delegating your ADA](delegating-your-ada.md)
 * [⚖ 6. Exchange vs SPO staking](6.-exchange-vs-spo-staking.md)
 * [🔌 7. Web3 dApp-connected Wallets](7.-web3-dapp-connected-wallets.md)
-* [🎯 7. Some links of interest](6.-some-links-of-interest.md)
+* [🎯 8. Some links of interest](6.-some-links-of-interest.md)
