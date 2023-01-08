@@ -3,7 +3,6 @@ description: >-
   There are a multitude of cryptocurrency exchanges in the world. Choosing one
   that is appropriately regulated in your jurisdiction and has a good reputation
   can make a lot of difference.
-coverY: 0
 ---
 
 # 💹 1. Choosing an exchange

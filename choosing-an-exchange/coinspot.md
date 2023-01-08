@@ -2,7 +2,6 @@
 description: >-
   Coinspot is an Australian operated and regulated crypto exchange. Operating
   since 2013, Coinspot has an impressive list of offerings in the crypto space.
-coverY: 0
 ---
 
 # Coinspot
@@ -13,7 +12,7 @@ coverY: 0
 
 ## Create an account
 
-Navigate to [https://www.coinspot.com.au/](https://www.coinspot.com.au) and click register:
+Navigate to [https://www.coinspot.com.au/](https://www.coinspot.com.au/) and click register:
 
 ![](../.gitbook/assets/coinspot\_splash.png)
 
