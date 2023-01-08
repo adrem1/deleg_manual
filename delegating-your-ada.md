@@ -2,6 +2,7 @@
 description: >-
   Here you'll learn how to delegate your funds to a stake pool, from both
   Daedalus and Yoroi.
+coverY: 0
 ---
 
 # 🤝 5. Delegating your ADA

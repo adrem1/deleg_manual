@@ -1,5 +1,6 @@
 ---
 description: General advice to keep your cryptocurrencies safe.
+coverY: 0
 ---
 
 # 🔐 Security tips

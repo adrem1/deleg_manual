@@ -2,6 +2,7 @@
 description: >-
   The examples provided here follow from previous sections and will be updated
   as we add more exchanges.
+coverY: 0
 ---
 
 # 💰 2. Purchasing ADA

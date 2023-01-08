@@ -3,6 +3,7 @@ description: >-
   Kraken is a US operated and regulated crypto exchange.  The platform is
   available to residents of 48 US states and 176 countries, and provides
   cryptocurrency-to-fiat trading.
+coverY: 0
 ---
 
 # Kraken
