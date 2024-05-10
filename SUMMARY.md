@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📖 Welcome to Cardano](README.md)
-* [‼ Important definitions](important-definitions.md)
+* [‼️ Important definitions](important-definitions.md)
 * [🔐 Security tips](security-tips.md)
 * [💹 1. Choosing an exchange](choosing-an-exchange/README.md)
   * [Coinspot](choosing-an-exchange/coinspot.md)
@@ -10,8 +10,8 @@
 * [👉 3. Installing a wallet app](installing-a-wallet-app/README.md)
   * [Daedalus](installing-a-wallet-app/daedalus.md)
   * [Yoroi](installing-a-wallet-app/yoroi.md)
-* [↔ 4. Sending ADA to your personal wallet](sending-your-funds-to-your-personal-wallet.md)
+* [↔️ 4. Sending ADA to your personal wallet](sending-your-funds-to-your-personal-wallet.md)
 * [🤝 5. Delegating your ADA](delegating-your-ada.md)
-* [⚖ 6. Exchange vs SPO staking](6.-exchange-vs-spo-staking.md)
+* [⚖️ 6. Exchange vs SPO staking](6.-exchange-vs-spo-staking.md)
 * [🔌 7. Web3 dApp-connected Wallets](7.-web3-dapp-connected-wallets.md)
 * [🎯 8. Some links of interest](6.-some-links-of-interest.md)
