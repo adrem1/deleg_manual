@@ -8,6 +8,7 @@
 * [👉 3. Installing a wallet app](installing-a-wallet-app/README.md)
   * [Daedalus](installing-a-wallet-app/daedalus.md)
   * [Yoroi](installing-a-wallet-app/yoroi.md)
+  * [Eternl](installing-a-wallet-app/eternl.md)
 * [↔️ 4. Sending ADA to your personal wallet](sending-your-funds-to-your-personal-wallet.md)
 * [🤝 5. Delegating your ADA](delegating-your-ada.md)
 * [⚖️ 6. Exchange vs SPO staking](6.-exchange-vs-spo-staking.md)

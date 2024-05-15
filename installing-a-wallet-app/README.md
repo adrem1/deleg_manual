@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here you will learn how to install and operate a Cardano wallet app, and the
-  key differences between Daedalus and Yoroi.
+  Now you will learn how to install and operate Cardano wallet apps, and the key
+  differences between them.
 ---
 
 # 👉 3. Installing a wallet app
@@ -11,26 +11,10 @@ The **Cardano Ecosystem has grown dramatically** since this guide was first writ
 
 
 
-If you are ready to explore **Web3 on Cardano**, please refer to the [new page](../7.-web3-dapp-connected-wallets.md) regarding dApp-connected wallets for a primer.   &#x20;
+If you are ready to explore **Web3 on Cardano**, please refer to [this page](../7.-web3-dapp-connected-wallets.md) for a list of current wallets.   &#x20;
 {% endhint %}
 
-## Daedalus
-
-Daedalus is a **Cardano Wallet** made by [IOG ](https://iohk.io/)(the developing company behind Cardano). It is a desktop application, which works with **all major Operating Systems** (Windows, MacOS and Linux).&#x20;
-
-> Daedalus is a full node wallet. This means that unlike light wallets (e.g.Yoroi, Adalite etc.) Daedalus downloads a full copy of the Cardano blockchain and independently validates every transaction in its history. That way you get maximum security and completely trustless operation, without centrally hosted 3rd party servers.
-
-**Daedalus** can be downloaded here: [https://daedaluswallet.io/](https://daedaluswallet.io/)
-
-![The splash page from Daedalus' Website.](../.gitbook/assets/daedalus\_splash.PNG)
-
-{% hint style="danger" %}
-Do **not** trust any other sources than the one linked above for Daedalus downloads. **Always check the URL** you are downloading from!
-{% endhint %}
-
-{% hint style="danger" %}
-Always check that you are downloading verified software. **Follow the instructions** on the Download page, and verify signature and checksum!
-{% endhint %}
+##
 
 ## Yoroi
 
@@ -46,6 +30,14 @@ Yoroi is a **Cardano Wallet** developed by [Emurgo](https://emurgo.io/), the com
 As above, **always check** the URL your are getting software from and **follow** the developer's **instructions** carefully!
 {% endhint %}
 
+## **Eternl**
+
+[Eternl](https://eternl.io/) is a Cardano light wallet available as a website/progressive web app (PWA), Chrome browser extension, and mobile app on iOS and Android. Here are some of its key features:
+
+* Ledger and Trezor hardware wallet support
+* DApp browser to connect to the Cardano ecosystem
+* Smart UTXO management and token fragmentation
+
 ## Choosing the wallet that is right for you
 
 Which wallet you choose to install is ultimately up to you. Considerations that may help you choose are:
@@ -59,4 +51,5 @@ Once you have chosen your ADA wallet, proceed to the relevant section of this gu
 
 * [Daedalus](daedalus.md)
 * [Yoroi](yoroi.md)
+* [Eternl](./#eternl)
 {% endhint %}

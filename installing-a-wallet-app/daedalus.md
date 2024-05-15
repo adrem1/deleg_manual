@@ -10,6 +10,26 @@ description: >-
 At the time of this writing (March 10th 2021) a mobile version of Daedalus has **NOT** been released. Numerous **scams** have been reported, claiming Daedalus can be used on mobile. This is **NOT** the case and you should **NOT** trust these claims. &#x20;
 {% endhint %}
 
+## Daedalus
+
+Daedalus is a **Cardano Wallet** made by [IOG ](https://iohk.io/)(the developing company behind Cardano). It is a desktop application, which works with **all major Operating Systems** (Windows, MacOS and Linux).&#x20;
+
+Daedalus requires a relatively high-specification desktop machine for good performance. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
+
+> Daedalus is a full node wallet. This means that unlike light wallets (e.g.Yoroi, Adalite etc.) Daedalus downloads a full copy of the Cardano blockchain and independently validates every transaction in its history. That way you get maximum security and completely trustless operation, without centrally hosted 3rd party servers.
+
+**Daedalus** can be downloaded here: [https://daedaluswallet.io/](https://daedaluswallet.io/)
+
+![The splash page from Daedalus' Website.](../.gitbook/assets/daedalus\_splash.PNG)
+
+{% hint style="danger" %}
+Do **not** trust any other sources than the one linked above for Daedalus downloads. **Always check the URL** you are downloading from!
+{% endhint %}
+
+{% hint style="danger" %}
+Always check that you are downloading verified software. **Follow the instructions** on the Download page, and verify signature and checksum!
+{% endhint %}
+
 ## Let Daedalus sync to the blockchain
 
 Once you have downloaded and verified Daedalus (see previous section) configure options as needed:
