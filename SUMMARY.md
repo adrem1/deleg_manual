@@ -5,7 +5,7 @@
 * [🔐 Security tips](security-tips.md)
 * [💹 1. Choosing an exchange](choosing-an-exchange.md)
 * [💰 2. Purchasing ADA](purchasing-ada.md)
-* [👉 3. Installing a wallet app](installing-a-wallet-app/README.md)
+* [👉 3. Choosing a wallet app](installing-a-wallet-app/README.md)
   * [Daedalus](installing-a-wallet-app/daedalus.md)
   * [Yoroi](installing-a-wallet-app/yoroi.md)
   * [Eternl](installing-a-wallet-app/eternl.md)
