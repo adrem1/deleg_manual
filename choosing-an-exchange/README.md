@@ -1,9 +1,7 @@
 ---
 description: >-
-  There are a multitude of cryptocurrency exchanges in the world. Choosing one
-  that is appropriately regulated in your jurisdiction and has a good reputation
-  can make a lot of difference.
-coverY: 0
+  Choosing an exchange out of the hundreds available today can be a daunting
+  task: here we provide some tips to newcomers to Cardano.
 ---
 
 # 💹 1. Choosing an exchange
@@ -20,9 +18,11 @@ Do some research ahead of time, to avoid unpleasant surprises.&#x20;
 Some exchanges provide end-of-financial year reports, accepted by your jurisdictional taxation office.
 {% endhint %}
 
-
-
 ## Reputation matters
+
+{% hint style="danger" %}
+There are a multitude of cryptocurrency exchanges in the world. Choosing one that is appropriately regulated in your jurisdiction and has a good reputation can make a lot of difference.
+{% endhint %}
 
 Make sure your exchange of choice has a good reputation. Things to look out for include:
 
@@ -33,10 +33,10 @@ Make sure your exchange of choice has a good reputation. Things to look out for 
 * Quality of **customer-support**;
 * **Transparency** of dealings with the community.
 
-## Some examples:
+## Exchange list
 
-In the next sections we'll look at practical examples to show how to setup an account on an exchange, secure it, fund it and purchase some ADA!
+For an updated list of Crypto exchanges, you can view [this page](https://www.coingecko.com/en/exchanges), curated by Coingecko.&#x20;
 
 {% hint style="warning" %}
-Disclaimer: this guide is not supported financially or in any other way endorsed by any of the exchanges mentioned herein.&#x20;
+Disclaimer: this guide is not supported financially or in any other way endorsed by Coingecko.&#x20;
 {% endhint %}
