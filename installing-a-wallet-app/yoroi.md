@@ -2,8 +2,6 @@
 description: >-
   Here you will learn how to create a wallet in Yoroi and familiarise yourself
   with Yoroi's interface.
-cover: ../.gitbook/assets/yoroi_splash.PNG
-coverY: 0
 ---
 
 # Yoroi
@@ -70,7 +68,7 @@ Take your time to navigate Yoroi's interface and familiarise yourself with it. B
 
 ## Recovering a Yoroi wallet
 
-Should you loose access to your Yoroi software for whichever reason (machine broken/lost/stolen), please use your **recovery phrase** to restore it. Choose "**Restore wallet**" **** in the following menu:
+Should you loose access to your Yoroi software for whichever reason (machine broken/lost/stolen), please use your **recovery phrase** to restore it. Choose "**Restore wallet**" in the following menu:
 
 ![](../.gitbook/assets/yoroi\_restore\_01.PNG)
 

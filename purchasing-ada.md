@@ -2,7 +2,6 @@
 description: >-
   The examples provided here follow from previous sections and will be updated
   as we add more exchanges.
-coverY: 0
 ---
 
 # 💰 2. Purchasing ADA
@@ -12,7 +11,7 @@ coverY: 0
 {% endhint %}
 
 {% hint style="warning" %}
-Please note that all exchanges will have a different look-and-feel as well as differ from one another based on factors highlighted in the "[Choosing an exchange](choosing-an-exchange/)" section of this guide.&#x20;
+Please note that all exchanges will have a different look-and-feel as well as differ from one another based on factors highlighted in the "[Choosing an exchange](choosing-an-exchange.md)" section of this guide.&#x20;
 {% endhint %}
 
 ## Coinspot

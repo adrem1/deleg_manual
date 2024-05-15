@@ -1,9 +1,8 @@
 ---
 description: A few terms that will pop-up regularly in this guide.
-coverY: 0
 ---
 
-# ‼ Important definitions
+# ‼️ Important definitions
 
 **Blockchain**
 

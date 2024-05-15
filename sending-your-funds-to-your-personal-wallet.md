@@ -2,10 +2,9 @@
 description: >-
   Here you will learn how to transfer funds from your exchange wallet to your
   personal one.
-coverY: 0
 ---
 
-# ↔ 4. Sending ADA to your personal wallet
+# ↔️ 4. Sending ADA to your personal wallet
 
 ## Receiving funds in Daedalus
 
@@ -48,7 +47,7 @@ Please ensure that the **amount you wish to send is present** in your exchange w
 {% endhint %}
 
 {% hint style="danger" %}
-Coinspot will ask for your **2FA** (which you should have, if you followed the guide [here](choosing-an-exchange/coinspot.md)) and also send you a **confirmation email** prior to withdrawal of funds.&#x20;
+Coinspot will ask for your **2FA** (which you should have, if you followed the guide [here](broken-reference)) and also send you a **confirmation email** prior to withdrawal of funds.&#x20;
 {% endhint %}
 
 ### From Kraken
