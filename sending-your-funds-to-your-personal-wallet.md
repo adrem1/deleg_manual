@@ -6,90 +6,56 @@ description: >-
 
 # ↔️ 4. Sending ADA to your personal wallet
 
+{% hint style="info" %}
+You will **not** need a **password to receive** funds, anyone can send you funds without your authorisation:sunglasses:
+{% endhint %}
+
+{% hint style="warning" %}
+Choosing a different address when receiving funds will help protect your privacy. Funds will all go to the same wallet.
+{% endhint %}
+
 ## Receiving funds in Daedalus
 
 From your wallet top menu, navigate to **Receive**:
 
 ![](.gitbook/assets/daedalus\_receive.png)
 
-{% hint style="info" %}
-You will **not** need a **password to receive** funds, anyone can send you funds without your authorisation:sunglasses:. The addresses below are blurred out intentionally, to prevent this, as the wallet in these pages is a test wallet only.&#x20;
-{% endhint %}
-
 Choose one of the available addresses:
 
 ![](.gitbook/assets/daedalus\_receive\_02.png)
-
-{% hint style="warning" %}
-Always choose a different address when receiving funds: this will protect your privacy. Funds will all go to the same wallet.&#x20;
-{% endhint %}
 
 In the popup choose "Copy address":
 
 ![](.gitbook/assets/daedalus\_share\_address.png)
 
-Now go **back to your exchange wallet.**
+## Receiving funds in Yoroi
 
-### **From Coinspot**
+In the "**Receive**" tab, **copy the address to your clipboard**:
 
-In Coinspot, once you open your ADA wallet, you will find the "**Send**" button:
+![](.gitbook/assets/yoroi\_receive.png)
 
-![](.gitbook/assets/coinspot\_send\_button\_new.png)
+## Send from your exchange wallet
+
+Now that you have copied your receive address, it is time to fund it by sending ADA from your exchange to it.&#x20;
 
 {% hint style="info" %}
-In the dialogue that follows, **paste the address you copied** in the **"ADA Payment Address"** box.
+Please note that each exchange will have a different UI to handle withdrawals of crypto. If in doubt, refer to your exchange's documentation.&#x20;
 {% endhint %}
-
-![](.gitbook/assets/coinspot\_send\_page\_updated.png)
 
 {% hint style="warning" %}
 Please ensure that the **amount you wish to send is present** in your exchange wallet (including transaction fees).
 {% endhint %}
 
+Go **back to your exchange wallet** and paste the receive address you just copied in the appropriate section to initiate a transfer.
+
 {% hint style="danger" %}
-Coinspot will ask for your **2FA** (which you should have, if you followed the guide [here](broken-reference)) and also send you a **confirmation email** prior to withdrawal of funds.&#x20;
+Always double check the address you are sending to: if you accidentally transfer your ADA to an address you do not control, recovering your funds will not be possible.&#x20;
 {% endhint %}
-
-### From Kraken
-
-More information about withdrawing your ADA to a personal wallet is available here: [https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account](https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account)
-
-From the **Funding** page, show all assets and find the "Withdraw" link for **Cardano**:
-
-![](.gitbook/assets/kraken\_withdraw\_01.png)
-
-Ensure **Cardano (ADA)** is selected (1) and that you have the amount you'd like to transfer. Then, **add an address** to send your ADA to (2):&#x20;
-
-![](.gitbook/assets/kraken\_withdraw\_02.png)
-
-Enter a description, paste the receiving address and save:
-
-![](.gitbook/assets/kraken\_withdraw\_03.png)
-
-By clicking **Review Withdrawal** you can ensure the desired address is selected and that you are sending the correct amount:
-
-![](.gitbook/assets/kraken\_withdraw\_04.png)
-
-## Receiving funds in Yoroi
-
-In the "**Receive**" tab, **copy the address to your clipboard**:
-
-{% hint style="info" %}
-You will **not** need a **password to receive** funds, anyone can send you funds without your authorisation:sunglasses:. The addresses below are deleted intentionally, to prevent this, as the wallet in these pages is a test wallet only.&#x20;
-{% endhint %}
-
-![](.gitbook/assets/yoroi\_receive.png)
-
-{% hint style="warning" %}
-Always choose a different address when receiving funds: this will protect your privacy. Funds will all go to the same wallet.
-{% endhint %}
-
-Now go **back to your exchange wallet** and paste the Yoroi wallet address in the relevant section. If you are using exchanges we have discussed here, please follow the steps outlined above.
 
 ## Confirm receipt of your funds
 
 Please check back in your **Daedalus** or **Yoroi** wallet: **your funds have been transferred** and can now be delegated to a stake pool :clap:&#x20;
 
 {% hint style="info" %}
-Please note that, while rather quick, **the transfer of ADA from an exchange wallet to yours is not instant**. If you have doubts about your outgoing (withdrawal) transactions, please make sure to check with exchange support.&#x20;
+Please note that, while rather quick, **the transfer of ADA from an exchange wallet to yours is not instant**. If you have doubts about your outgoing (withdrawal) transactions, please contact your exchange support.&#x20;
 {% endhint %}
