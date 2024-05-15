@@ -1,20 +1,20 @@
 ---
-description: >-
-  Here you will learn how to create a wallet in Daedalus and familiarise
-  yourself with Daedalus' interface.
+description: Here you will learn about Daedalus, its features and its interface.
 ---
 
 # Daedalus
 
 {% hint style="danger" %}
-At the time of this writing (March 10th 2021) a mobile version of Daedalus has **NOT** been released. Numerous **scams** have been reported, claiming Daedalus can be used on mobile. This is **NOT** the case and you should **NOT** trust these claims. &#x20;
+As of the last revision of this document (May 2024) a mobile version of Daedalus has **NOT** been released. Numerous **scams** have been reported, claiming Daedalus can be used on mobile. This is **NOT** the case and you should **NOT** trust these claims. &#x20;
 {% endhint %}
 
-## Daedalus
+## About Daedalus
 
 Daedalus is a **Cardano Wallet** made by [IOG ](https://iohk.io/)(the developing company behind Cardano). It is a desktop application, which works with **all major Operating Systems** (Windows, MacOS and Linux).&#x20;
 
-Daedalus requires a relatively high-specification desktop machine for good performance. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
+{% hint style="warning" %}
+Daedalus requires a relatively high-specification desktop machine for good performance. It is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
+{% endhint %}
 
 > Daedalus is a full node wallet. This means that unlike light wallets (e.g.Yoroi, Adalite etc.) Daedalus downloads a full copy of the Cardano blockchain and independently validates every transaction in its history. That way you get maximum security and completely trustless operation, without centrally hosted 3rd party servers.
 
