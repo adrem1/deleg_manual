@@ -34,7 +34,7 @@ Most exchanges will allow a number of payment methods: please refer to your exch
 
 Each exchange will have its own UI to allow customers to purchase ADA and other crypto. Some will provide swaps, spot prices, market orders and more.&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Please familiarise yourself with the UI of your exchange, and consult independent market-price aggregators when you purchase crypto.&#x20;
 {% endhint %}
 
