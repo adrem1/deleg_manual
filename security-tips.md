@@ -20,10 +20,10 @@ Below you can watch a video by **Charles Hoskinson** (the inventor of Cardano) o
 
 ## Don't underestimate the power of paper
 
-Both Cardano Wallets we will be talking about later in this guide use a multi-word **mnemonic phrase** (24 for Daedalus and 15 for Yoroi) to recover your wallet should you loose access to your device (broken, stolen, etc).&#x20;
+Cardano Wallets we will be talking about later in this guide use a multi-word **mnemonic phrase** to recover your wallet should you loose access to your device (broken, stolen, etc).&#x20;
 
 {% hint style="danger" %}
-**Never** store this mnemonic digitally, unless you have a security setup that allows you to do so safely (eg Air-gapped machine, in which case you probably don't need this guide).&#x20;
+**Never** store this mnemonic digitally.&#x20;
 {% endhint %}
 
 Store your mnemonic on **paper** (a notebook that you will not loose): make 3 copies and keep them in at least 2 separate _physical_ locations.&#x20;
