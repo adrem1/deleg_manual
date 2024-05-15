@@ -11,20 +11,8 @@ The **Cardano Ecosystem has grown dramatically** since this guide was first writ
 
 
 
-If you are ready to explore **Web3 on Cardano**, please refer to [this page](../7.-web3-dapp-connected-wallets.md) for a list of current wallets.   &#x20;
+If you are ready to explore **Web3 on Cardano**, please refer to [this page](../7.-web3-dapp-connected-wallets.md) for a list of current wallets.
 {% endhint %}
-
-##
-
-##
-
-## **Eternl**
-
-[Eternl](https://eternl.io/) is a Cardano light wallet available as a website/progressive web app (PWA), Chrome browser extension, and mobile app on iOS and Android. Here are some of its key features:
-
-* Ledger and Trezor hardware wallet support
-* DApp browser to connect to the Cardano ecosystem
-* Smart UTXO management and token fragmentation
 
 ## Choosing the wallet that is right for you
 
