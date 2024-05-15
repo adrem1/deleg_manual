@@ -26,8 +26,10 @@ There are a multitude of cryptocurrency exchanges in the world. Choosing one tha
 
 Make sure your exchange of choice has a good reputation. Things to look out for include:
 
-* **Years of activity** (how long have they been around for?);
-* Whether the exchange will allow **cryptocurrency withdrawal** into personal wallets (you will not be able to stake otherwise);
+* **Solid local regulation**;
+* Presence of a thorough **KYC process**;
+* **Years of activity**;
+* The exchange allows **cryptocurrency withdrawal** into personal wallets;
 * **Awards and certifications** from competent organs;
 * **Bad press** or allegations of **criminal behaviour**;
 * Quality of **customer-support**;
