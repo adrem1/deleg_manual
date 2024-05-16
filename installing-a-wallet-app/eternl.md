@@ -1,6 +1,6 @@
 # Eternl
 
-## ** About Eternl**
+## About Eternl
 
 [Eternl](https://eternl.io/) is a Cardano light wallet available as a website/progressive web app (PWA), Chrome browser extension, and mobile app on iOS and Android. Here are some of its key features:
 
