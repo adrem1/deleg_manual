@@ -42,15 +42,15 @@ Open the **Eternl** extension (top right corner of your browser). You will see t
 
 Click **Add Wallet**:
 
-<figure><img src="../../.gitbook/assets/eternl04.PNG" alt="" width="563"><figcaption><p>From here you can add Cardano wallets in many ways, we'll make a new one!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/eternl04.PNG" alt="" width="563"><figcaption><p>From here you can add Cardano wallets in many ways, we'll make a new one!</p></figcaption></figure>
 
 Click **Create Wallet**:
 
-<figure><img src="../../.gitbook/assets/eternl05.PNG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/eternl05.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 Choose a **name** to identify your wallet and a **strong password**:
 
-<figure><img src="../../.gitbook/assets/eternl06.PNG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/eternl06.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Please note:** Your wallet name and password are only stored locally. If you were to loose access to your wallet, the **recovery phrase** (see below) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password. &#x20;
@@ -58,7 +58,7 @@ Choose a **name** to identify your wallet and a **strong password**:
 
 We will only need one **Account** for the time being. Please click **Save**:
 
-<figure><img src="../../.gitbook/assets/eternl07.PNG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/eternl07.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Before you proceed**: From this point onward **follow the onscreen instructions to the letter**. Please make sure you understand what the **recovery phrase** is for, and how to best **keep it safe**.
@@ -70,7 +70,7 @@ We will only need one **Account** for the time being. Please click **Save**:
 
 **Acknowledge** that nobody can see your screen and click **continue:**
 
-<figure><img src="../../.gitbook/assets/eternl08.PNG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/eternl08.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **Success:** You have written down and checked you 24-word **recovery phrase**. :partying\_face:&#x20;
