@@ -22,7 +22,7 @@ Click [here](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbk
 
 </div>
 
-## Create a new wallet
+## Create your wallet in Eternl
 
 {% hint style="info" %}
 Eternl allows users to browse and connect to Cardano dApps **using a wallet**. Below you'll create one :thumbsup:
@@ -74,8 +74,10 @@ We will only need one **Account** for the time being. Please click **Save**:
 
 **Success:** You have written down and checked you 24-word **recovery phrase**. :partying\_face:
 
-Your wallet is now **ready to be funded**!
+Your new Eternl wallet is now **ready to be funded**!
 
-{% hint style="danger" %}
+{% hint style="info" %} Take your time to navigate Eternl's interface and familiarise yourself with it. Below you will learn what to do in case you should loose access to your wallet. {% endhint %}
+
+## Recovering an Eternl wallet 
+
 WIP: work in progress
-{% endhint %}
