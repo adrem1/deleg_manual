@@ -11,7 +11,7 @@ The **Cardano Ecosystem has grown dramatically** since this guide was first writ
 
 
 
-Please refer to [this page](../7.-third-party-wallets.md) for a list of current wallets.
+Please refer to [this page](../further-reading/third-party-wallets.md) for a list of current wallets.
 {% endhint %}
 
 ## Choosing the wallet that is right for you

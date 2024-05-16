@@ -4,7 +4,7 @@ description: >-
   SPOs instead of exchanges.
 ---
 
-# ⚖️ 6. Exchange vs SPO staking
+# ⚖️ Exchange vs SPO staking
 
 {% hint style="warning" %}
 Always do your own research on any crypto-related project and investment!
@@ -28,9 +28,9 @@ If you are uncertain about getting your ADA off exchanges, or how to safely set 
 
 As a starting point you can read some of the information herein contained:
 
-[Choosing an exchange](choosing-an-exchange.md);
+[Choosing an exchange](../choosing-an-exchange.md);
 
-[Installing a wallet app](installing-a-wallet-app/).
+[Installing a wallet app](../choosing-a-wallet-app/).
 {% endhint %}
 
 Self-custody may sound scary. If you want to learn more about it, so as you can start staking with SPOs with greater confidence, here are a couple of useful resources:

@@ -2,7 +2,7 @@
 description: Here we'll briefly discuss how wallets are evolving on Cardano.
 ---
 
-# 🔌 7. Third Party Wallets
+# 🔌 Third Party Wallets
 
 {% hint style="warning" %}
 This guide is not associated directly or indirectly with the developers of any of the wallets listed herein.
@@ -10,7 +10,7 @@ This guide is not associated directly or indirectly with the developers of any o
 
 ## Compatibility
 
-Most wallets listed here are compatible with mnemonic phrases from other wallets (please see [Installing a wallet app](installing-a-wallet-app/)). This means that one could import a Yoroi or Daedalus wallet into any of them.&#x20;
+Most wallets listed here are compatible with mnemonic phrases from other wallets (please see [Installing a wallet app](../choosing-a-wallet-app/)). This means that one could import a Yoroi or Daedalus wallet into any of them.&#x20;
 
 ## Web3
 
