@@ -19,7 +19,7 @@ All exchanges will have a different look-and-feel as well as differ from one ano
 Once you have chosen an exchange, create an account and complete the required Know-Your-Customer (KYC) steps in order to enable transactions to and from your new account.&#x20;
 
 {% hint style="danger" %}
-While it is possible still to trade in crypto without KYC, we do not recommend it. KYC is an important compliance step for financial institutions: exchanges that do not implement is should be avoided.  &#x20;
+While it is possible to trade in crypto without KYC, we do not recommend it. KYC is an important compliance step for financial institutions: exchanges that do not implement it should be avoided.  &#x20;
 {% endhint %}
 
 ## **Fund your exchange account**
