@@ -5,7 +5,7 @@
 [Eternl](https://eternl.io/) is a Cardano light wallet available as a website/progressive web app (PWA), Chrome browser extension, and mobile app on iOS and Android. Here are some of its key features:
 
 * Ledger and Trezor hardware wallet support
-* DApp browser to connect to the Cardano ecosystem
+* dApp browser to connect to the Cardano ecosystem
 * Smart UTXO management and token fragmentation
 
 ## Add Eternl to your browser
@@ -25,7 +25,7 @@ Click [here](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbk
 ## Create a new wallet
 
 {% hint style="info" %}
-Eternl allows users to browse and connect to Cardano dApps **using a wallet**. Below you'll create one :thumbsup:&#x20;
+Eternl allows users to browse and connect to Cardano dApps **using a wallet**. Below you'll create one :thumbsup:
 {% endhint %}
 
 Open the **Eternl** extension (top right corner of your browser). You will see the following in a new tab:
@@ -53,7 +53,7 @@ Choose a **name** to identify your wallet and a **strong password**:
 <figure><img src="../.gitbook/assets/eternl06.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Please note:** Your wallet name and password are only stored locally. If you were to loose access to your wallet, the **recovery phrase** (see below) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password. &#x20;
+**Please note:** Your wallet name and password are only stored locally. If you were to loose access to your wallet, the **recovery phrase** (see below) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password.
 {% endhint %}
 
 We will only need one **Account** for the time being. Please click **Save**:
@@ -72,8 +72,7 @@ We will only need one **Account** for the time being. Please click **Save**:
 
 <figure><img src="../.gitbook/assets/eternl08.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-{% hint style="success" %}
-**Success:** You have written down and checked you 24-word **recovery phrase**. :partying\_face:&#x20;
+**Success:** You have written down and checked you 24-word **recovery phrase**. :partying\_face:
 
 Your wallet is now **ready to be funded**!
 
