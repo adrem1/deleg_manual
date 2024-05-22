@@ -76,8 +76,52 @@ We will only need one **Account** for the time being. Please click **Save**:
 
 Your new Eternl wallet is now **ready to be funded**!
 
-{% hint style="info" %} Take your time to navigate Eternl's interface and familiarise yourself with it. Below you will learn what to do in case you should loose access to your wallet. {% endhint %}
+{% hint style="info" %}
+Take your time to navigate Eternl's interface and familiarise yourself with it. Below you will learn what to do in case you should loose access to your wallet.
+{% endhint %}
 
-## Recovering an Eternl wallet 
+## Recovering an Eternl wallet
 
-WIP: work in progress
+Should you loose access to your Eternl wallet for whichever reason (machine broken/lost/stolen), please use your **recovery phrase** to restore it. Choose "**Add Wallet**" in the top left menu:
+
+<figure><img src="../.gitbook/assets/eternl_restore01.PNG" alt=""><figcaption></figcaption></figure>
+
+In the following menu choose "**Restore Wallet**":
+
+<figure><img src="../.gitbook/assets/eternl_restore02.PNG" alt=""><figcaption></figcaption></figure>
+
+Choose which type of wallet you wish to recover (hence the length of of the recovery phrase):&#x20;
+
+<figure><img src="../.gitbook/assets/eternl_restore03.PNG" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+This method of recovery works for most current Cardano wallets. You can, if you wish, use this method to import your wallet into more than one software. &#x20;
+{% endhint %}
+
+Now enter your recovery phrase and click "Continue" once done:&#x20;
+
+<figure><img src="../.gitbook/assets/eternl_restore04.PNG" alt=""><figcaption></figcaption></figure>
+
+You will be prompted for a new "**Wallet Name**" and a new "**Spending Password**":
+
+{% hint style="danger" %}
+Should someone get a hold of your **recovery phrase**, they can restore your wallet and **gain full control** of it, **even if they don't know your spending password** (they will be asked, like you just then, to make a new password).
+{% endhint %}
+
+{% hint style="danger" %}
+Should you ever **loose** a copy of your **recovery phrase**, you must consider **your wallet compromised**, and transfer its contents to a new one.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/eternl_restore05.PNG" alt=""><figcaption></figcaption></figure>
+
+Enter the number of accounts you wish to have in your wallet and click save:
+
+{% hint style="info" %}
+One account is sufficient for most users, but having more than one account allows you to delegate to multiple stake pools.&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/eternl_restore06.PNG" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+You now have all the tools you need to **manage your Eternl wallets**. Please use your judgement and take time to practice **creating**, **deleting** and **restoring** wallets, in order to gain confidence.
+{% endhint %}
