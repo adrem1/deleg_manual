@@ -10,6 +10,8 @@ description: >-
 When you delegate your funds, these remain in your **full control**. Cardano also has **no lock-in** period.
 {% endhint %}
 
+## Delegating to a Stake Pool&#x20;
+
 Now that you've [created your wallet](choosing-a-wallet-app/) and [funded it](sending-ada-to-your-personal-wallet.md), you want to consider delegating to a Stake Pool.
 
 {% hint style="warning" %}
@@ -20,6 +22,20 @@ There is no valid reason not to delegate your stake to a Pool and it can be done
 
 {% hint style="info" %}
 Some [exchanges](choosing-an-exchange.md) offer Cardano staking services. It is always best to transfer your funds off exchanges and delegate to a Stake Pool instead. Learn why [here](further-reading/exchange-vs-spo-staking.md).
+{% endhint %}
+
+## Choosing a Stake Pool
+
+Making recommendations about individual Stake Pools is not the scope of this guide. There are some excellent tips in [Selecting a Pool for your Delegation](https://cardano-community.github.io/support-faq/select-pool-to-delegate/).
+
+{% hint style="warning" %}
+Do your own research!
+{% endhint %}
+
+You can also check out these [Stake Pool Alliances](further-reading/some-links-of-interest.md) if you wish.&#x20;
+
+{% hint style="warning" %}
+Use [Explorers](further-reading/some-links-of-interest.md) to monitor the **performance of your stake pool of choice**: if a pool does not mint any new blocks in an Epoch, neither you nor the stake pool operator will earn rewards.&#x20;
 {% endhint %}
 
 ## Delegating from Daedalus
@@ -70,16 +86,42 @@ Once **delegation is successful** you should see this dialogue box:
 
 ## Delegating from Eternl
 
-{% hint style="danger" %}
-Work in Progress
+{% hint style="info" %}
+The pools in the images below are intentionally deleted. Your staking page will look slightly different.&#x20;
+{% endhint %}
+
+Click on **Staking** from your Wallet's page**:**
+
+<figure><img src=".gitbook/assets/eternl_deleg01.PNG" alt=""><figcaption></figcaption></figure>
+
+Type the **name or ticker of the pool** you wish to delegate to:
+
+<div>
+
+<figure><img src=".gitbook/assets/eternl_deleg02.PNG" alt=""><figcaption><p>Type the name of your pool of choice</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/eternl_deleg03.PNG" alt=""><figcaption><p>Click the Delegate button</p></figcaption></figure>
+
+</div>
+
+In the dialogue that follows, enter your **spending password** and click **Sign**:
+
+<figure><img src=".gitbook/assets/eternl_deleg04.PNG" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Back on your wallet's main page (**Account > Summary**), you'll see the **updated balance** (after fees and deposit of the stake key) and your **pool preference**.&#x20;
 {% endhint %}
 
 ## Congratulations!
 
 Your ADA is now delegated to a stake pool :clap: : you are **actively securing Cardano**, while **earning ADA rewards**!
 
-{% hint style="info" %}
-Please note that, like your delegation preferences, **staking rewards** are paid out to you after 2 Epochs have passed since rewards were calculated.
+{% hint style="success" %}
+**Success!** Now that your wallet is delegated to a pool, you will start accruing rewards. The funds are still in your **full control**: you can spend them, transfer them, delegate them to a different pool.
+{% endhint %}
 
-Monitor the **performance of your stake pool of choice**: if a pool does not mint any new blocks in an Epoch, neither you nor the stake pool operator will earn rewards.&#x20;
+{% hint style="info" %}
+All changes in Cardano take 2 epochs to take effect (delegation, reward distribution, etc). More on this topic on [Cardanians' Medium](https://cardanians-io.medium.com/cardano-staking-practical-information-3c86cbc73bd4).
 {% endhint %}
