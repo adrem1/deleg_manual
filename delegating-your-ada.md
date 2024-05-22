@@ -58,6 +58,12 @@ Once **delegation is successful** you should see this dialogue box:
 
 ![](.gitbook/assets/yoroi\_delegate\_03.PNG)
 
+## Delegating from Eternl
+
+{% hint style="danger" %}
+Work in Progress
+{% endhint %}
+
 ## Congratulations!
 
 Your ADA is now delegated to a stake pool :clap: : you are **actively securing Cardano**, while **earning ADA rewards**!
