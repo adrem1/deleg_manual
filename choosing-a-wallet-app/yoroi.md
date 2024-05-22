@@ -118,6 +118,6 @@ Should someone get a hold of your **recovery phrase**, they can restore your wal
 Should you ever **loose** a copy of your **recovery phrase**, you must consider **your wallet compromised**, and transfer its contents to a new one.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 You now have all the tools you need to **manage your Yoroi wallets**. Please use your judgement and take time to practice **creating**, **deleting** and **restoring** wallets, in order to gain confidence.
 {% endhint %}

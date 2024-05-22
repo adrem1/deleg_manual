@@ -110,6 +110,6 @@ Should you ever **loose** a copy of your **mnemonic phrase**, you must consider 
 
 ![](../.gitbook/assets/daedalus\_restore\_config.PNG)
 
-{% hint style="info" %}
+{% hint style="success" %}
 You now have all the tools you need to **manage your Daedalus wallets**. Please use your judgement and take time to practice **creating**, **deleting** and **restoring** wallets, in order to gain confidence.
 {% endhint %}
