@@ -1,11 +1,11 @@
 # Table of contents
 
-* [📖 Welcome to Cardano](README.md)
+* [👋 Welcome to Cardano](README.md)
 * [‼️ Important definitions](important-definitions.md)
 * [🔐 Security tips](security-tips.md)
 * [💹 1. Choosing an exchange](choosing-an-exchange.md)
 * [💰 2. Purchasing ADA](purchasing-ada.md)
-* [👉 3. Choosing a wallet app](choosing-a-wallet-app/README.md)
+* [👛 3. Choosing a wallet app](choosing-a-wallet-app/README.md)
   * [Daedalus](choosing-a-wallet-app/daedalus.md)
   * [Yoroi](choosing-a-wallet-app/yoroi.md)
   * [Eternl](choosing-a-wallet-app/eternl.md)
