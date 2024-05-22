@@ -1,15 +1,25 @@
 ---
 description: >-
-  Here you'll learn how to delegate your funds to a stake pool, from both
-  Daedalus and Yoroi.
+  Delegating your stake in Cardano is easy and rewards you for securing the
+  network.
 ---
 
 # 🤝 5. Delegating your ADA
 
-{% hint style="danger" %}
+{% hint style="info" %}
 When you delegate your funds, these remain in your **full control**. Cardano also has **no lock-in** period.
+{% endhint %}
 
-Your first delegation will incur a (refundable) **delegation fee**. Should you delegate your funds to a different pool, your operation will only incur a **small transaction fee** (non refundable).&#x20;
+Now that you've [created your wallet](choosing-a-wallet-app/) and [funded it](sending-ada-to-your-personal-wallet.md), you want to consider delegating to a Stake Pool.
+
+{% hint style="warning" %}
+Your first delegation will incur a (refundable) **delegation fee**. Should you delegate your funds to a different pool, your operation will only incur a **small transaction fee** (non refundable).
+{% endhint %}
+
+There is no valid reason not to delegate your stake to a Pool and it can be done by following the steps below. If you would like to know more about Staking on Cardano, please refer to the original post by [Prof. Aggelos Kiayias, Chief Scientist for Cardano](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/).
+
+{% hint style="info" %}
+Some [exchanges](choosing-an-exchange.md) offer Cardano staking services. It is always best to transfer your funds off exchanges and delegate to a Stake Pool instead. Learn why [here](further-reading/exchange-vs-spo-staking.md).
 {% endhint %}
 
 ## Delegating from Daedalus
