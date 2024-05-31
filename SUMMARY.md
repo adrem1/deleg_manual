@@ -13,5 +13,6 @@
 * [🤝 5. Delegating your ADA](delegating-your-ada.md)
 * [📗 Further reading](further-reading/README.md)
   * [⚖️ Exchange vs SPO staking](further-reading/exchange-vs-spo-staking.md)
+  * [🛠️ Hardware Wallets](further-reading/hardware-wallets.md)
   * [🔌 Third Party Wallets](further-reading/third-party-wallets.md)
   * [🎯 Some links of interest](further-reading/some-links-of-interest.md)
