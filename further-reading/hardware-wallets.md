@@ -5,12 +5,16 @@ description: Brief introduction to the advantages of using a hardware wallet for
 # 🛠️ Hardware Wallets
 
 {% hint style="warning" %}
-This guide is not affiliated or in any way supported by the hardware wallet producers mentioned herein.
+This guide is not affiliated or in any way supported by the hardware wallet manufacturers mentioned herein.
 {% endhint %}
 
 ## What are hardware wallets?
 
-:warning: WIP
+A hardware wallet is a physical device to store your cryptocurrency private keys away from the internet. Hardware wallets confirm transactions in an offline environment: this helps keep your private keys away from the risks of the internet.
+
+{% hint style="info" %}
+Purchasing a hardware wallet to protect your crypto investments should be your first priority.&#x20;
+{% endhint %}
 
 ## Why should you consider a hardware wallet?
 
@@ -33,4 +37,10 @@ Hardware wallets offer several benefits over software wallets for storing ADA:&#
 
 ## Which hardware wallet should you buy?
 
-:warning: WIP
+{% hint style="danger" %}
+Refer to the manufacturer's website for more information on individual hardware wallets and their usage.&#x20;
+{% endhint %}
+
+We recommend the following hardware wallets, based on the below compatibility matrix:&#x20;
+
+<table><thead><tr><th width="158"></th><th width="104" data-type="checkbox">Daedalus</th><th width="75" data-type="checkbox">Yoroi</th><th width="131" data-type="checkbox">Yoroi Mobile</th><th width="103" data-type="checkbox">Yoroi iOS</th><th data-type="checkbox">Eternl</th></tr></thead><tbody><tr><td><a href="https://shop.ledger.com/pages/ledger-nano-x">Ledger Nano X</a></td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td><a href="https://shop.ledger.com/pages/ledger-nano-s-plus">Ledger Nano S Plus</a></td><td>true</td><td>true</td><td>true</td><td>false</td><td>true</td></tr><tr><td><a href="https://trezor.io/trezor-model-t">Trezor Model T</a></td><td>true</td><td>true</td><td>false</td><td>false</td><td>true</td></tr></tbody></table>
